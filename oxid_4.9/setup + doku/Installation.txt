@@ -1,0 +1,27 @@
+﻿------------------------------------------
+OXID-MODUL "Individuelle Staffelpreise"
+------------------------------------------
+
+
+Mit dem Modul können individuelle Staffelpreise für Varianten erstellt werden auch wenn Vererbung aktiviert ist
+
+Bei Fragen, Kritik bzw. Problemen erreichen Sie uns wie folgt:
+Frank Zunderer
+Waldstr. 22
+82205 Gilching
+Tel.: +49-8105-777250
+e-Mail: it-beratung@zunderer.de
+
+
+
+Installationsvoraussetzungen:
+- OXID eshop ab 4.9.0
+
+
+
+Installation Shopversion ab 4.9.0:
+-------------
+1) Kopieren Sie bitte alle vorliegenden Dateien aus dem Verzeichnis "copy_this" in den Shop. 
+   Behalten Sie die Verzeichnisstruktur bei!
+
+2) Aktivieren Sie das Modul im Oxid-Backend unter "Erweiterungen/Module".
